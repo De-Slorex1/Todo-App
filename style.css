@@ -13,9 +13,9 @@ body {
     margin: 20px 0px;
     background-color: rgb(58, 58, 58);
     color: white;
-    width: 350px;
+    width: 100%;
     padding: 15px 20px;
-    height: 400px;
+    height: 100vh;
     border-radius: 8px;
 }
 .division h1 {
